@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio-trainee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test":"node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infernus255/ejercicio_onready.git"
+  },
+  "author": "Eros Montevegna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infernus255/ejercicio_onready/issues"
+  },
+  "homepage": "https://github.com/infernus255/ejercicio_onready#readme"
+}
